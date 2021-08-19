@@ -1,5 +1,3 @@
 # GroupList
 
-The collaborative shopping list
-
-## Getting Started
+The collaborative list app
